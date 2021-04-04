@@ -1,7 +1,7 @@
 {
-  "name" : "black-jack-js",
+  "name" : "uno-js",
   "description" : "",
-  "keywords" : ["BlackJack", "library", "project", "javascript"],
+  "keywords" : ["UnoGame", "library", "project", "javascript"],
   "author" : "Sonia Casanova <soniacasanovar@gmail.com>",
   "repository" : {"type": "git", "url": "https://github.com/soniacasanova/JSGame"},
   "main" : "main.js",
